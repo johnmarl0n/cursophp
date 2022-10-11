@@ -1,4 +1,4 @@
 # Curso de Aprimorando - Udemy e Hcode
 
-![Logo PHP](https://www.php.net/images/logos/new-php-logo.png =100x20)
+<img src="https://www.php.net/images/logos/new-php-logo.png" alt="Logo PHP" style="width: 100px;"/>
 ## Curso tem como objetivo aprimorar os conhecimentos em PHP.
